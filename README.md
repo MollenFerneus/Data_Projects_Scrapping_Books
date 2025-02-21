@@ -15,3 +15,7 @@ This project requires:
 
 
 To find out how to install Jupyter Notebook or Python libraries, please use uncle google search engine.
+
+
+
+Keep in mind this is a beginner project. It may have flaws or even more flaws. 
