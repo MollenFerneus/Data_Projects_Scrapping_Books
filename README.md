@@ -14,4 +14,4 @@ This project requires:
   - requests
 
 
-To install the Notebook or Libraries, please use uncle google search engine.
+To install the Jupyter Notebook or Python libraries, please use uncle google search engine.
