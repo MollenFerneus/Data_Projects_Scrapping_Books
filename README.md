@@ -12,3 +12,6 @@ This project requires:
   - plotly
   - shapiro
   - requests
+
+
+To install the Notebook or Libraries, please use uncle google search engine.
