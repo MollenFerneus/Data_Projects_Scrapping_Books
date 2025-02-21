@@ -5,6 +5,7 @@ CSV file is scrapped data from "https://books.toscrape.com/" website.
 This project requires:
 
 -Jupyter Notebook
+
 -Python libraries:
   - beautifulsoup
   - pandas
